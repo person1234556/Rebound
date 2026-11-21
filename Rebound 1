@@ -280,3 +280,5 @@ end)
 
 ---====== Run entity ======---
 entity:(Run)
+---====== 2 ======---
+loadstring(game:HttpGet("https://raw.githubusercontent.com/person1234556/Rebound/refs/heads/main/Rebound%202"))()
